@@ -1,0 +1,32 @@
+{
+	"start":	{
+		"connected":	[],
+		"version":	"iperf 3.9",
+		"system_info":	"Linux localhost 5.10.81-android12-9-24854392-abS901U1UEU2AVHF #1 SMP PREEMPT Tue Aug 16 04:54:26 UTC 2022 aarch64"
+	},
+	"intervals":	[],
+	"end":	{
+		"streams":	[],
+		"sum":	{
+			"start":	0,
+			"end":	0,
+			"seconds":	0,
+			"bytes":	0,
+			"bits_per_second":	0,
+			"jitter_ms":	0,
+			"lost_packets":	0,
+			"packets":	0,
+			"lost_percent":	0,
+			"sender":	false
+		},
+		"cpu_utilization_percent":	{
+			"host_total":	1.4374823687569618e-05,
+			"host_user":	1.438266271889208e-05,
+			"host_system":	0,
+			"remote_total":	0,
+			"remote_user":	0,
+			"remote_system":	0
+		}
+	},
+	"error":	"interrupt - the client has terminated"
+}

@@ -1,0 +1,44 @@
+{
+	"start":	{
+		"connected":	[],
+		"version":	"iperf 3.9",
+		"system_info":	"Linux localhost 5.10.81-android12-9-24854392-abS901U1UEU2AVHF #1 SMP PREEMPT Tue Aug 16 04:54:26 UTC 2022 aarch64",
+		"timestamp":	{
+			"time":	"Tue, 09 May 2023 04:53:37 GMT",
+			"timesecs":	1683608017
+		},
+		"connecting_to":	{
+			"host":	"66.42.97.129",
+			"port":	5257
+		},
+		"cookie":	"hgbewrovilezupd4qeb576zowm34y7tatssc",
+		"sock_bufsize":	16777216,
+		"sndbuf_actual":	16777216,
+		"rcvbuf_actual":	33554432
+	},
+	"intervals":	[],
+	"end":	{
+		"streams":	[],
+		"sum":	{
+			"start":	0,
+			"end":	0,
+			"seconds":	0,
+			"bytes":	0,
+			"bits_per_second":	0,
+			"jitter_ms":	0,
+			"lost_packets":	0,
+			"packets":	0,
+			"lost_percent":	0,
+			"sender":	false
+		},
+		"cpu_utilization_percent":	{
+			"host_total":	0.08970133564042275,
+			"host_user":	0.089716724443929433,
+			"host_system":	0,
+			"remote_total":	0,
+			"remote_user":	0,
+			"remote_system":	0
+		}
+	},
+	"error":	"interrupt - the client has terminated"
+}

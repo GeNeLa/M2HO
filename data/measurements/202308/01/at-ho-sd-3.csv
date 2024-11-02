@@ -1,0 +1,194 @@
+22:38:26.623,22:38:24.799,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-98, -9.0), Neighbor(nr-arfcn 658080, pci 783, rsrp -94.0, rsrq -13.5)
+22:38:26.843,22:38:24.944,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-99, -9.5), Neighbor(nr-arfcn 658080, pci 783, rsrp -94.0, rsrq -13.5)
+22:38:26.923,22:38:25.064,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-102, -10.0), Neighbor(nr-arfcn 658080, pci 783, rsrp -94.0, rsrq -13.5)
+22:38:27.090,22:38:25.199,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-102, -10.0), Neighbor(nr-arfcn 658080, pci 783, rsrp -94.0, rsrq -13.5)
+22:38:27.229,22:38:25.343,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-103, -10.5), Neighbor(nr-arfcn 658080, pci 783, rsrp -94.0, rsrq -15.0)
+22:38:27.349,22:38:25.464,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-104, -10.5), Neighbor(nr-arfcn 658080, pci 783, rsrp -94.0, rsrq -15.0)
+22:38:27.439,22:38:25.544,--->,UL DCCH,LTE,LTE measurementReport,Event : A2 / Serving(-104, -10.5)
+22:38:27.440,22:38:25.598,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-104, -11.0), Neighbor(nr-arfcn 174770, pci 204, rsrp -99.0, rsrq -16.5)
+22:38:27.440,22:38:25.599,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-104, -11.0), Neighbor(nr-arfcn 658080, pci 783, rsrp -94.0, rsrq -15.0)
+22:38:27.674,22:38:25.744,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-102, -11.0), Neighbor(nr-arfcn 174770, pci 204, rsrp -99.0, rsrq -16.5)
+22:38:27.674,22:38:25.744,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-102, -11.0), Neighbor(nr-arfcn 658080, pci 783, rsrp -94.0, rsrq -15.0)
+22:38:27.674,22:38:25.864,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-101, -11.5), Neighbor(nr-arfcn 174770, pci 204, rsrp -99.0, rsrq -16.5)
+22:38:27.674,22:38:25.864,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-101, -11.5), Neighbor(nr-arfcn 658080, pci 783, rsrp -94.0, rsrq -15.0)
+22:38:27.710,22:38:25.874,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,ENDC LTE HO Request(DiffLTE-SameNR) / Split Bearer Config / keyToUse : secondary / cellGroupId : 1 / absoluteFrequencySSB : 658080 / SubcarrierSpacing : kHz30 / carrierBandwidth : 217 / frequencyBandList : 77 / Split Bearer Config (Primary Path: SCG / ul-DataSplitThreshold: b3200)
+22:38:27.711,22:38:25.891,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,ENDC LTE HO Success
+22:38:27.750,22:38:25.928,,5GNR RACH,5GNR,5GNR MAC RACH Trigger,CONNECTION_REQUEST
+22:38:27.751,22:38:25.944,,5GNR RACH,5GNR,5GNR MAC RACH Attempt,SUCCESS
+22:38:27.784,22:38:25.965,<---,BCCH:DL SCH,LTE,LTE systemInformation - sib2,UPPR[1]: True, UPPR[2]: True
+22:38:28.890,22:38:27.033,--->,UL DCCH,LTE,LTE measurementReport,Event : A2 / Serving(-98, -11.0)
+22:38:30.189,22:38:28.368,--->,UL DCCH,5GNR,5GNR measurementReport,Event: A3 / Serving(pci 783, ss-rsrp -112.0, ss-rsrq -26.0) / Neighbor(pci 324, ss-rsrp -88.0, ss-rsrq -14.0)
+22:38:30.243,22:38:28.436,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,ENDC SN Release Request / Split Bearer Config / keyToUse : secondary / cellGroupId : 1 / absoluteFrequencySSB : 658080 / SubcarrierSpacing : kHz30 / carrierBandwidth : 217 / frequencyBandList : 77 / Split Bearer Config (Primary Path: SCG / ul-DataSplitThreshold: b3200)
+22:38:30.291,22:38:28.456,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,ENDC SN Release Success
+22:38:30.292,22:38:28.472,,5GNR RACH,5GNR,5GNR MAC RACH Trigger,HANDOVER
+22:38:30.292,22:38:28.494,,5GNR RACH,5GNR,5GNR MAC RACH Attempt,SUCCESS
+22:38:36.568,22:38:34.717,<---,DL DCCH,LTE,LTE rrcConnectionRelease,
+22:39:28.959,22:39:26.885,<---,BCCH:DL SCH,LTE,LTE systemInformation - sib2,UPPR[1]: True, UPPR[2]: True
+22:39:36.602,22:39:34.606,<---,BCCH:DL SCH,LTE,LTE systemInformation - sib2,UPPR[1]: True, UPPR[2]: True
+22:39:36.803,22:39:34.644,<---,BCCH:DL SCH,LTE,LTE systemInformation - sib2,UPPR[1]: True, UPPR[2]: True
+22:40:15.400,22:40:13.572,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-101, -12.5), Neighbor(nr-arfcn 658080, pci 705, rsrp -80.0, rsrq -11.0)
+22:40:15.626,22:40:13.724,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-102, -12.5), Neighbor(nr-arfcn 658080, pci 705, rsrp -80.0, rsrq -11.0)
+22:40:15.692,22:40:13.844,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-103, -12.5), Neighbor(nr-arfcn 658080, pci 705, rsrp -80.0, rsrq -11.0)
+22:40:15.826,22:40:13.964,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-104, -13.0), Neighbor(nr-arfcn 658080, pci 705, rsrp -80.0, rsrq -11.0)
+22:40:15.826,22:40:14.019,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-104, -13.0), Neighbor(nr-arfcn 174770, pci 620, rsrp -92.0, rsrq -11.5)
+22:40:15.963,22:40:14.084,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-105, -13.0), Neighbor(nr-arfcn 658080, pci 705, rsrp -80.0, rsrq -11.0)
+22:40:16.113,22:40:14.164,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-105, -12.5), Neighbor(nr-arfcn 174770, pci 620, rsrp -92.0, rsrq -11.5)
+22:40:16.113,22:40:14.204,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-105, -13.0), Neighbor(nr-arfcn 658080, pci 705, rsrp -80.0, rsrq -11.0)
+22:40:16.114,22:40:14.284,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-106, -13.0), Neighbor(nr-arfcn 174770, pci 620, rsrp -92.0, rsrq -11.5)
+22:40:16.252,22:40:14.324,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-106, -13.0), Neighbor(nr-arfcn 658080, pci 705, rsrp -80.0, rsrq -11.0)
+22:40:16.253,22:40:14.419,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-106, -13.0), Neighbor(nr-arfcn 174770, pci 620, rsrp -92.0, rsrq -11.5)
+22:40:16.386,22:40:14.444,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-106, -13.0), Neighbor(nr-arfcn 658080, pci 705, rsrp -80.0, rsrq -11.0)
+22:40:16.458,22:40:14.563,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-106, -13.0), Neighbor(nr-arfcn 174770, pci 620, rsrp -96.0, rsrq -12.5)
+22:40:16.479,22:40:14.653,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,ENDC LTE HO Request / Split Bearer Config / keyToUse : secondary / cellGroupId : 1 / absoluteFrequencySSB : 658080 / SubcarrierSpacing : kHz30 / carrierBandwidth : 217 / frequencyBandList : 77 / Split Bearer Config (Primary Path: SCG / ul-DataSplitThreshold: b3200)
+22:40:16.480,22:40:14.673,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,ENDC LTE HO Success
+22:40:16.526,22:40:14.707,,5GNR RACH,5GNR,5GNR MAC RACH Trigger,CONNECTION_REQUEST
+22:40:16.526,22:40:14.724,,5GNR RACH,5GNR,5GNR MAC RACH Attempt,SUCCESS
+22:40:16.556,22:40:14.745,<---,BCCH:DL SCH,LTE,LTE systemInformation - sib2,UPPR[1]: True, UPPR[2]: True
+22:40:17.866,22:40:16.066,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,cellGroupId : 1
+22:40:17.923,22:40:16.074,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,
+22:40:18.803,22:40:16.896,--->,UL DCCH,LTE,LTE measurementReport,Event : A5 / Serving(-102, -15.5)
+22:40:19.847,22:40:17.982,--->,UL DCCH,LTE,LTE measurementReport,Event : A5 / Serving(-100, -14.5)
+22:40:21.197,22:40:19.262,--->,UL DCCH,LTE,LTE measurementReport,Event : A5 / Serving(-100, -14.0)
+22:40:21.288,22:40:19.495,--->,UL DCCH,LTE,LTE measurementReport,Event : A5 / Serving(-101, -15.0)
+22:40:22.341,22:40:20.542,--->,UL DCCH,LTE,LTE measurementReport,Event : A5 / Serving(-102, -17.5)
+22:40:22.603,22:40:20.751,<---,DL DCCH,LTE,LTE rrcConnectionRelease,
+22:40:35.507,22:40:33.445,<---,BCCH:DL SCH,LTE,LTE systemInformation - sib2,UPPR[1]: True, UPPR[2]: True
+22:40:44.386,22:40:42.386,<---,BCCH:DL SCH,LTE,LTE systemInformation - sib2,UPPR[1]: True, UPPR[2]: True
+22:40:56.622,22:40:54.799,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-93, -12.5), Neighbor(nr-arfcn 658080, pci 705, rsrp -79.0, rsrq -12.0)
+22:40:56.866,22:40:54.944,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-93, -12.5), Neighbor(nr-arfcn 658080, pci 705, rsrp -79.0, rsrq -12.0)
+22:40:57.024,22:40:55.064,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-94, -12.0), Neighbor(nr-arfcn 658080, pci 705, rsrp -79.0, rsrq -12.0)
+22:40:57.152,22:40:55.199,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-94, -12.0), Neighbor(nr-arfcn 174770, pci 620, rsrp -86.0, rsrq -12.0)
+22:40:57.152,22:40:55.199,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-94, -12.0), Neighbor(nr-arfcn 658080, pci 705, rsrp -79.0, rsrq -12.0)
+22:40:57.266,22:40:55.343,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-94, -12.0), Neighbor(nr-arfcn 658080, pci 705, rsrp -76.0, rsrq -11.5)
+22:40:57.266,22:40:55.343,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-94, -12.0), Neighbor(nr-arfcn 174770, pci 620, rsrp -86.0, rsrq -12.0)
+22:40:57.314,22:40:55.464,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-93, -12.0), Neighbor(nr-arfcn 658080, pci 705, rsrp -76.0, rsrq -11.5)
+22:40:57.314,22:40:55.464,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-93, -12.0), Neighbor(nr-arfcn 174770, pci 620, rsrp -86.0, rsrq -12.0)
+22:40:57.405,22:40:55.598,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-93, -12.0), Neighbor(nr-arfcn 658080, pci 705, rsrp -76.0, rsrq -11.5)
+22:40:57.405,22:40:55.599,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-93, -12.0), Neighbor(nr-arfcn 174770, pci 620, rsrp -86.0, rsrq -12.0)
+22:40:57.558,22:40:55.743,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-93, -12.5), Neighbor(nr-arfcn 658080, pci 705, rsrp -76.0, rsrq -11.5)
+22:40:57.559,22:40:55.743,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-93, -12.5), Neighbor(nr-arfcn 174770, pci 705, rsrp -84.0, rsrq -14.5)
+22:40:57.686,22:40:55.870,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,ENDC LTE HO Request / Split Bearer Config / keyToUse : secondary / cellGroupId : 1 / absoluteFrequencySSB : 658080 / SubcarrierSpacing : kHz30 / carrierBandwidth : 217 / frequencyBandList : 77 / Split Bearer Config (Primary Path: SCG / ul-DataSplitThreshold: b3200)
+22:40:57.687,22:40:55.889,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,ENDC LTE HO Success
+22:40:57.735,22:40:55.923,,5GNR RACH,5GNR,5GNR MAC RACH Trigger,CONNECTION_REQUEST
+22:40:57.758,22:40:55.944,,5GNR RACH,5GNR,5GNR MAC RACH Attempt,SUCCESS
+22:40:57.758,22:40:55.965,<---,BCCH:DL SCH,LTE,LTE systemInformation - sib2,UPPR[1]: True, UPPR[2]: True
+22:40:59.618,22:40:57.759,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,cellGroupId : 1
+22:40:59.618,22:40:57.773,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,
+22:41:00.840,22:40:59.035,--->,UL DCCH,LTE,LTE measurementReport,Event : A5 / Serving(-95, -15.5)
+22:41:09.193,22:41:07.389,--->,UL DCCH,LTE,LTE measurementReport,Event : periodical / Purpose : reportStrongestCells / Serving(-89, -11.5)
+22:41:09.511,22:41:07.687,--->,UL DCCH,LTE,LTE measurementReport,Event : A2 / Serving(-89, -11.5)
+22:41:13.318,22:41:11.527,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,cellGroupId : 1
+22:41:13.359,22:41:11.535,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,
+22:41:14.738,22:41:12.795,--->,UL DCCH,LTE,LTE measurementReport,Event : periodical / Purpose : reportStrongestCells / Serving(-83, -13.0)
+22:41:14.806,22:41:12.989,--->,UL DCCH,LTE,LTE measurementReport,Event : A5 / Serving(-86, -16.5)
+22:41:14.901,22:41:13.029,--->,UL DCCH,LTE,LTE measurementReport,Event : A3 / Serving(-86, -16.5)
+22:41:14.911,22:41:13.114,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,ENDC LTE HO Request(DiffLTE-SameNR) / Split Bearer Config / keyToUse : secondary / cellGroupId : 1 / absoluteFrequencySSB : 658080 / SubcarrierSpacing : kHz30 / carrierBandwidth : 217 / frequencyBandList : 77 / Split Bearer Config (Primary Path: SCG / ul-DataSplitThreshold: b3200)
+22:41:14.965,22:41:13.166,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,ENDC LTE HO Success
+22:41:14.965,22:41:13.167,,5GNR RACH,5GNR,5GNR MAC RACH Trigger,HANDOVER
+22:41:14.999,22:41:13.194,,5GNR RACH,5GNR,5GNR MAC RACH Attempt,SUCCESS
+22:41:15.044,22:41:13.205,<---,BCCH:DL SCH,LTE,LTE systemInformation - sib2,UPPR[1]: True, UPPR[2]: True
+22:41:21.195,22:41:19.320,--->,UL DCCH,LTE,LTE measurementReport,Event : A3 / Serving(-90, -19.5)
+22:41:21.226,22:41:19.400,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,ENDC LTE HO Request(DiffLTE-SameNR) / Split Bearer Config / keyToUse : secondary / cellGroupId : 1 / absoluteFrequencySSB : 658080 / SubcarrierSpacing : kHz30 / carrierBandwidth : 217 / frequencyBandList : 77 / Split Bearer Config (Primary Path: SCG / ul-DataSplitThreshold: b3200)
+22:41:21.249,22:41:19.440,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,ENDC LTE HO Success
+22:41:21.249,22:41:19.441,,5GNR RACH,5GNR,5GNR MAC RACH Trigger,HANDOVER
+22:41:21.249,22:41:19.454,,5GNR RACH,5GNR,5GNR MAC RACH Attempt,SUCCESS
+22:41:21.318,22:41:19.485,<---,BCCH:DL SCH,LTE,LTE systemInformation - sib2,UPPR[1]: True, UPPR[2]: True
+22:41:24.220,22:41:22.388,--->,UL DCCH,LTE,LTE measurementReport,Event : A2 / Serving(-90, -12.0)
+22:41:27.425,22:41:25.574,--->,UL DCCH,LTE,LTE measurementReport,Event : A3 / Serving(-94, -16.0)
+22:41:27.499,22:41:25.661,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,ENDC LTE HO Request(DiffLTE-SameNR) / Split Bearer Config / keyToUse : secondary / cellGroupId : 1 / absoluteFrequencySSB : 658080 / SubcarrierSpacing : kHz30 / carrierBandwidth : 217 / frequencyBandList : 77 / Split Bearer Config (Primary Path: SCG / ul-DataSplitThreshold: b3200)
+22:41:27.528,22:41:25.717,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,ENDC LTE HO Success
+22:41:27.528,22:41:25.718,,5GNR RACH,5GNR,5GNR MAC RACH Trigger,HANDOVER
+22:41:27.559,22:41:25.734,,5GNR RACH,5GNR,5GNR MAC RACH Attempt,SUCCESS
+22:41:27.597,22:41:25.765,<---,BCCH:DL SCH,LTE,LTE systemInformation - sib2,UPPR[1]: True, UPPR[2]: True
+22:41:31.134,22:41:29.283,--->,UL DCCH,LTE,LTE measurementReport,Event : A2 / Serving(-92, -13.0)
+22:41:32.150,22:41:30.243,--->,UL DCCH,LTE,LTE measurementReport,Event : A5 / Serving(-94, -15.5)
+22:41:33.956,22:41:32.155,<---,DL DCCH,LTE,LTE rrcConnectionRelease,
+22:41:56.712,22:41:54.819,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-89, -9.0), Neighbor(nr-arfcn 658080, pci 620, rsrp -78.0, rsrq -11.0)
+22:41:56.846,22:41:54.964,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-89, -9.5), Neighbor(nr-arfcn 658080, pci 620, rsrp -78.0, rsrq -11.0)
+22:41:56.926,22:41:55.084,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-89, -9.5), Neighbor(nr-arfcn 658080, pci 620, rsrp -78.0, rsrq -11.0)
+22:41:57.166,22:41:55.219,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-89, -9.5), Neighbor(nr-arfcn 174770, pci 620, rsrp -70.0, rsrq -11.0)
+22:41:57.166,22:41:55.219,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-89, -9.5), Neighbor(nr-arfcn 658080, pci 620, rsrp -78.0, rsrq -11.0)
+22:41:57.288,22:41:55.363,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-90, -9.0), Neighbor(nr-arfcn 658080, pci 620, rsrp -78.0, rsrq -12.0)
+22:41:57.288,22:41:55.363,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-90, -9.0), Neighbor(nr-arfcn 174770, pci 620, rsrp -70.0, rsrq -11.0)
+22:41:57.358,22:41:55.484,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-90, -9.5), Neighbor(nr-arfcn 658080, pci 620, rsrp -78.0, rsrq -12.0)
+22:41:57.358,22:41:55.484,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-90, -9.5), Neighbor(nr-arfcn 174770, pci 620, rsrp -70.0, rsrq -11.0)
+22:41:57.488,22:41:55.619,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-89, -9.0), Neighbor(nr-arfcn 658080, pci 620, rsrp -78.0, rsrq -12.0)
+22:41:57.488,22:41:55.619,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-89, -9.0), Neighbor(nr-arfcn 174770, pci 620, rsrp -70.0, rsrq -11.0)
+22:41:57.637,22:41:55.763,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-89, -8.5), Neighbor(nr-arfcn 174770, pci 620, rsrp -78.0, rsrq -11.5)
+22:41:57.637,22:41:55.763,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-89, -8.5), Neighbor(nr-arfcn 658080, pci 620, rsrp -78.0, rsrq -12.0)
+22:41:57.703,22:41:55.891,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,ENDC LTE HO Request / Split Bearer Config / keyToUse : secondary / cellGroupId : 1 / absoluteFrequencySSB : 658080 / SubcarrierSpacing : kHz30 / carrierBandwidth : 217 / frequencyBandList : 77 / Split Bearer Config (Primary Path: SCG / ul-DataSplitThreshold: b3200)
+22:41:57.758,22:41:55.911,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,ENDC LTE HO Success
+22:41:57.758,22:41:55.945,,5GNR RACH,5GNR,5GNR MAC RACH Trigger,CONNECTION_REQUEST
+22:41:57.790,22:41:55.964,,5GNR RACH,5GNR,5GNR MAC RACH Attempt,SUCCESS
+22:41:57.803,22:41:55.985,<---,BCCH:DL SCH,LTE,LTE systemInformation - sib2,UPPR[1]: True, UPPR[2]: True
+22:41:59.274,22:41:57.462,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,cellGroupId : 1
+22:41:59.275,22:41:57.470,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,
+22:42:05.065,22:42:03.222,<---,DL DCCH,LTE,LTE rrcConnectionRelease,
+22:42:14.454,22:42:12.627,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-77, -8.5), Neighbor(nr-arfcn 2263335, pci 375, rsrp -106.0, rsrq -11.5)
+22:42:14.515,22:42:12.716,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,ENDC LTE HO Request / Split Bearer Config / keyToUse : secondary / cellGroupId : 1 / absoluteFrequencySSB : 2263335 / SubcarrierSpacing : kHz120 / carrierBandwidth : 66 / frequencyBandList : 260 / Split Bearer Config (Primary Path: MCG / ul-DataSplitThreshold: infinity)
+22:42:14.581,22:42:12.738,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,ENDC LTE HO Success
+22:42:14.598,22:42:12.775,,5GNR RACH,5GNR,5GNR MAC RACH Trigger,CONNECTION_REQUEST
+22:42:14.598,22:42:12.788,,5GNR RACH,5GNR,5GNR MAC RACH Attempt,SUCCESS
+22:42:14.646,22:42:12.805,<---,BCCH:DL SCH,LTE,LTE systemInformation - sib2,UPPR[1]: True, UPPR[2]: True
+22:42:15.793,22:42:13.992,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,Split Bearer Config / Split Bearer Config (Primary Path: SCG / ul-DataSplitThreshold: b51200)
+22:42:15.889,22:42:13.999,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,
+22:42:21.085,22:42:19.280,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,cellGroupId : 1
+22:42:21.109,22:42:19.291,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,
+22:42:23.959,22:42:22.164,--->,UL DCCH,LTE,LTE measurementReport,Event : periodical / Purpose : reportStrongestCells / Serving(-79, -10.5)
+22:42:24.190,22:42:22.371,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,cellGroupId : 1
+22:42:24.191,22:42:22.382,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,
+22:42:29.089,22:42:27.286,--->,UL DCCH,LTE,LTE measurementReport,Event : periodical / Purpose : reportStrongestCells / Serving(-77, -9.0)
+22:42:34.529,22:42:32.710,--->,UL DCCH,LTE,LTE measurementReport,Event : periodical / Purpose : reportStrongestCells / Serving(-78, -11.0)
+22:42:39.657,22:42:37.830,--->,UL DCCH,LTE,LTE measurementReport,Event : periodical / Purpose : reportStrongestCells / Serving(-83, -8.5)
+22:42:44.768,22:42:42.950,--->,UL DCCH,LTE,LTE measurementReport,Event : periodical / Purpose : reportStrongestCells / Serving(-79, -10.5)
+22:42:47.687,22:42:45.834,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,cellGroupId : 1
+22:42:47.688,22:42:45.850,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,
+22:42:49.897,22:42:48.070,--->,UL DCCH,LTE,LTE measurementReport,Event : periodical / Purpose : reportStrongestCells / Serving(-77, -12.5)
+22:42:53.725,22:42:51.914,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,cellGroupId : 1
+22:42:53.796,22:42:51.931,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,
+22:42:55.031,22:42:53.190,--->,UL DCCH,LTE,LTE measurementReport,Event : periodical / Purpose : reportStrongestCells / Serving(-78, -11.5)
+22:43:00.132,22:42:58.310,--->,UL DCCH,LTE,LTE measurementReport,Event : periodical / Purpose : reportStrongestCells / Serving(-77, -9.5)
+22:43:05.250,22:43:03.430,--->,UL DCCH,LTE,LTE measurementReport,Event : periodical / Purpose : reportStrongestCells / Serving(-77, -10.0)
+22:43:06.209,22:43:04.394,<---,DL DCCH,LTE,LTE rrcConnectionRelease,
+22:43:07.589,22:43:05.763,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-79, -10.0), Neighbor(nr-arfcn 2263335, pci 375, rsrp -100.0, rsrq -11.0)
+22:43:07.714,22:43:05.903,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-80, -10.0), Neighbor(nr-arfcn 2263335, pci 375, rsrp -100.0, rsrq -11.0)
+22:43:07.753,22:43:05.937,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,ENDC LTE HO Request / Split Bearer Config / keyToUse : secondary / cellGroupId : 1 / absoluteFrequencySSB : 2263335 / SubcarrierSpacing : kHz120 / carrierBandwidth : 66 / frequencyBandList : 260 / Split Bearer Config (Primary Path: MCG / ul-DataSplitThreshold: infinity)
+22:43:07.811,22:43:05.957,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,ENDC LTE HO Success
+22:43:07.812,22:43:05.998,,5GNR RACH,5GNR,5GNR MAC RACH Trigger,CONNECTION_REQUEST
+22:43:07.826,22:43:06.023,,5GNR RACH,5GNR,5GNR MAC RACH Attempt,SUCCESS
+22:43:07.904,22:43:06.045,<---,BCCH:DL SCH,LTE,LTE systemInformation - sib2,UPPR[1]: True, UPPR[2]: True
+22:43:08.182,22:43:06.378,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,Split Bearer Config / Split Bearer Config (Primary Path: SCG / ul-DataSplitThreshold: b51200)
+22:43:08.183,22:43:06.385,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,
+22:43:08.260,22:43:06.450,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,cellGroupId : 1
+22:43:08.299,22:43:06.466,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,
+22:43:18.022,22:43:16.192,--->,UL DCCH,LTE,LTE measurementReport,Event : periodical / Purpose : reportStrongestCells / Serving(-80, -11.5)
+22:43:23.275,22:43:21.438,--->,UL DCCH,LTE,LTE measurementReport,Event : periodical / Purpose : reportStrongestCells / Serving(-79, -10.0)
+22:43:27.460,22:43:25.605,<---,DL DCCH,LTE,LTE rrcConnectionRelease,
+22:43:28.250,22:43:26.427,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-75, -9.0), Neighbor(nr-arfcn 2263335, pci 375, rsrp -100.0, rsrq -11.0)
+22:43:28.352,22:43:26.510,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,ENDC LTE HO Request / Split Bearer Config / keyToUse : secondary / cellGroupId : 1 / absoluteFrequencySSB : 2263335 / SubcarrierSpacing : kHz120 / carrierBandwidth : 66 / frequencyBandList : 260 / Split Bearer Config (Primary Path: MCG / ul-DataSplitThreshold: infinity)
+22:43:28.354,22:43:26.527,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,ENDC LTE HO Success
+22:43:28.381,22:43:26.563,,5GNR RACH,5GNR,5GNR MAC RACH Trigger,CONNECTION_REQUEST
+22:43:28.388,22:43:26.583,,5GNR RACH,5GNR,5GNR MAC RACH Attempt,SUCCESS
+22:43:28.388,22:43:26.585,<---,BCCH:DL SCH,LTE,LTE systemInformation - sib2,UPPR[1]: True, UPPR[2]: True
+22:43:28.809,22:43:27.004,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,Split Bearer Config / Split Bearer Config (Primary Path: SCG / ul-DataSplitThreshold: b51200)
+22:43:28.868,22:43:27.010,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,
+22:43:35.193,22:43:33.373,--->,UL DCCH,LTE,LTE measurementReport,Event : periodical / Purpose : reportStrongestCells / Serving(-77, -9.5)
+22:43:40.690,22:43:38.779,--->,UL DCCH,LTE,LTE measurementReport,Event : periodical / Purpose : reportStrongestCells / Serving(-77, -10.0)
+22:43:42.849,22:43:41.023,<---,DL DCCH,LTE,LTE rrcConnectionRelease,
+22:43:47.671,22:43:45.847,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-77, -9.5), Neighbor(nr-arfcn 2263335, pci 375, rsrp -105.0, rsrq -11.5)
+22:43:47.737,22:43:45.923,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,ENDC LTE HO Request / Split Bearer Config / keyToUse : secondary / cellGroupId : 1 / absoluteFrequencySSB : 2263335 / SubcarrierSpacing : kHz120 / carrierBandwidth : 66 / frequencyBandList : 260 / Split Bearer Config (Primary Path: MCG / ul-DataSplitThreshold: infinity)
+22:43:47.802,22:43:45.943,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,ENDC LTE HO Success
+22:43:47.803,22:43:45.981,,5GNR RACH,5GNR,5GNR MAC RACH Trigger,CONNECTION_REQUEST
+22:43:47.807,22:43:46.003,,5GNR RACH,5GNR,5GNR MAC RACH Attempt,SUCCESS
+22:43:47.808,22:43:46.005,<---,BCCH:DL SCH,LTE,LTE systemInformation - sib2,UPPR[1]: True, UPPR[2]: True
+22:43:48.089,22:43:46.289,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,Split Bearer Config / Split Bearer Config (Primary Path: SCG / ul-DataSplitThreshold: b51200)
+22:43:48.151,22:43:46.296,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,
+22:43:55.966,22:43:54.127,<---,DL DCCH,LTE,LTE rrcConnectionRelease,
+22:43:56.505,22:43:54.666,--->,UL DCCH,LTE,LTE measurementReport,Event : B1_NR_r15 / Serving(-72, -10.5), Neighbor(nr-arfcn 2263335, pci 375, rsrp -98.0, rsrq -11.0)
+22:43:56.551,22:43:54.752,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,ENDC LTE HO Request / Split Bearer Config / keyToUse : secondary / cellGroupId : 1 / absoluteFrequencySSB : 2263335 / SubcarrierSpacing : kHz120 / carrierBandwidth : 66 / frequencyBandList : 260 / Split Bearer Config (Primary Path: MCG / ul-DataSplitThreshold: infinity)
+22:43:56.599,22:43:54.769,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,ENDC LTE HO Success
+22:43:56.626,22:43:54.805,,5GNR RACH,5GNR,5GNR MAC RACH Trigger,CONNECTION_REQUEST
+22:43:56.626,22:43:54.823,,5GNR RACH,5GNR,5GNR MAC RACH Attempt,SUCCESS
+22:43:56.699,22:43:54.845,<---,BCCH:DL SCH,LTE,LTE systemInformation - sib2,UPPR[1]: True, UPPR[2]: True
+22:43:56.864,22:43:55.043,<---,DL DCCH,LTE,LTE rrcConnectionReconfiguration,Split Bearer Config / Split Bearer Config (Primary Path: SCG / ul-DataSplitThreshold: b51200)
+22:43:56.864,22:43:55.051,--->,UL DCCH,LTE,LTE rrcConnectionReconfigurationComplete,
