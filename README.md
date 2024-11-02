@@ -1,8 +1,6 @@
-# Mobicom24-M2HO-artifact
+# M2HO: Mitigating the Adverse Effects of 5G Handovers on TCP
 
-> \[MobiCom'24\] M2HO: Mitigating the Adverse Effects of 5G Handovers on TCP
-
-This repository contains the dataset and scripts from MobiCom'24 paper, [_M2HO_: Mitigating the Adverse Effects of 5G Handovers on TCP](https://www.sigmobile.org/mobicom/2024/).
+This repository contains 5G measurement dataset and scripts. More details can be found in [_M2HO_: Mitigating the Adverse Effects of 5G Handovers on TCP](https://www.sigmobile.org/mobicom/2024/), MobiCom'24.
 
 ## Dataset
 
